@@ -57,13 +57,6 @@ $ python train.py
 Make sure the data folder which contains the training data  has not been altered in anyway
   
 The model will be saved in the **model**  directory with name "**model.h5**" overwriting the current pre-trained model.
-### Training Statistics
-##### Model Accuracy 
-![accuracy](/images/accuracy.png)
-
-##### Model Loss
-
-![loss](/images/loss.png)
 
 
 ## Using the model for making predictions
